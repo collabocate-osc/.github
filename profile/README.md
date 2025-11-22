@@ -3,11 +3,7 @@
 
 #
 
-*Community building and collaboration Image: [Image Attribution](https://resources.collabo.community/p/gciMw91qU6jJ23/Attributions)*
-
-#
-
-📖 Visit community documentation and join project conversations here: [resources.collabo.community](https://resources.collabo.community)
+📖 Visit community documentation and join project conversations here: [resources.collabocate.community](https://resources.collabocate.community)
 
 <!--
 #
