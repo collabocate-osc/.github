@@ -1,5 +1,5 @@
 
-![Community building and collaboration image](https://github.com/user-attachments/assets/23b85966-405e-4a66-910e-6f9d96618a4a)
+![Community building and collaboration image](https://github.com/user-attachments/assets/7f6d3a83-73a3-4d57-97ed-2a1d6ac746d2)
 
 #
 
